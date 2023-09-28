@@ -1,4 +1,4 @@
-# app-galeri-vue3
+# galeri-firebase-vue3-app
 
 ## Project setup
 ```
